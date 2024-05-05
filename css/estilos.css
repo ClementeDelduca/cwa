@@ -335,7 +335,7 @@ p, a{
 }
 @media(min-width: 768px) {
     .texto-nosotros p{
-        text-align: left;
+        text-align: justify;
     }
 }
 
@@ -390,7 +390,7 @@ p, a{
 
 @media(min-width: 768px) {
     .servicio p{
-        text-align: left;
+        text-align: justify;
     }
 }
 
